@@ -1,0 +1,2 @@
+# ArcoLinuxB-wayfire Calamares configuration
+
